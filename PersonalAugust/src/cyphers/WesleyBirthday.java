@@ -10,7 +10,7 @@ public class WesleyBirthday {
 		System.out.println("Hello, would you like to encrypt (1) or decrypt (2) this today?");
 
 		String alphabet = " zyxwvutsrqponmlkjihgfedcba";
-
+		//ADDED TEST COMMENT
 		String input = keyboard.nextLine();
 
 		System.out.println("Enter phrase:");
